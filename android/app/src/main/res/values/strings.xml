@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">udit_asssment</string>
+    <string name="facebook_app_id">463112526454669</string>
+    <string name="fb_login_protocol_scheme">fb_your_facebook_app_id</string>
+    <string name="facebook_client_token">a5e799336ccc9a4ff31ec0c2fc6f3e2e</string>
+</resources>

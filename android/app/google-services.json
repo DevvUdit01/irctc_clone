@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "922813966919",
+    "project_id": "udit-assesment",
+    "storage_bucket": "udit-assesment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922813966919:android:7ec92cf12e4b3076b29f62",
+        "android_client_info": {
+          "package_name": "com.example.udit_assesment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBKKu10NOJeDFej2cc5bJ13XQCa0zOitM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
